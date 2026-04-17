@@ -1,7 +1,9 @@
 <h1 align="center">Hello Moon! 🌙 I'm Leo</h1>
 
+<h3 align="center">Father of 2 · Cinematographer · Photographer · Multidisciplinary Artist<br/>enthusiastically discovering the world of coding 🚀</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Web+Developer+from+Sarajevo+🇧🇦;Building+tools+people+actually+use;HTML+%2F+JS+%2F+Python;Chrome+Extension+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Cinematographer+%26+Photographer;Multidisciplinary+Artist;Enthusiastically+learning+to+code;Building+things+for+the+people+I+love" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,9 +11,10 @@
 ### 👨‍💻 About Me
 
 - 📍 Based in **Sarajevo, Bosnia & Herzegovina**
-- 🛠️ I build web apps, Chrome extensions, and Python tools
-- 🌙 "Hello Moon!" — just a dev exploring the digital universe
-- 🎮 Also make fun projects for my little one (Pokémon, Math apps, you name it)
+- 🎬 Cinematographer & 📷 Photographer by craft
+- 🎨 Multidisciplinary artist exploring the digital world
+- 💻 Enthusiastically learning to code — building tools, extensions & small apps
+- 👨‍👧‍👦 Dad of 2, making fun projects for the kids (Pokémon games, Math apps...)
 - 📫 Reach me: **ygtekz@gmail.com**
 
 ---
