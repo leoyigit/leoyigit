@@ -15,7 +15,7 @@
 - 🎨 Multidisciplinary artist exploring the digital world
 - 💻 Enthusiastically learning to code — building tools, extensions & small apps
 - 👨‍👧‍👦 Dad of 2, making fun projects for the kids (Pokémon games, Math apps...)
-- 📫 Reach me: **ygtekz@gmail.com**
+- 📫 Reach me: **leo@10x.ai**
 
 ---
 
