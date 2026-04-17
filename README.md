@@ -31,7 +31,6 @@
 
 | Project | What it does |
 |---|---|
-| 🗂️ [clipboard-manager](https://github.com/leoyigit/clipboard-manager) | Chrome extension to keep your clipboard organized |
 | 🛍️ [shopify-product-explorer-extension](https://github.com/leoyigit/shopify-product-explorer-extension) | Browse Shopify products via Chrome |
 | 📊 [table-to-csv](https://github.com/leoyigit/table-to-csv) | Convert HTML tables to CSV |
 | 📍 [location-finder](https://github.com/leoyigit/location-finder) | Python location utility |
