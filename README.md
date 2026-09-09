@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      leoyigit / README.md  ·  profile README, shot in one scene
-     Reel: cold open · character sheet · flashback · the loop · fail better ledger ·
+     Reel: cold open · character sheet · flashback · the loop · motto · fail better ledger ·
            now shooting · filmography · the kit · box office · credits
      ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -131,7 +131,24 @@ flowchart LR
 ```
 
 > [!TIP]
-> This loop is also the backbone of **The Leo Method**, the problem-first AI Fluency internship track I mentor at FlyRank. Interns don't take lessons. They watch how we actually work, then ship something a real person uses. Chapter four is literally called *Fail on Purpose*.
+> This loop is also the backbone of **The Leo Method**, the problem-first track I mentor inside the [FlyRank AI Internship](https://internship.flyrank.ai): **[AI n-able Yourself](https://aifluency.flyrank.ai/)**, ten weeks of General AI Fluency for people who have never written code. Interns don't take lessons. They watch how we actually work, then ship something a real person uses: their own portfolio, live on the internet. Chapter four is literally called *Fail on Purpose*.
+
+<br/>
+
+## 🪶 Motto
+
+<div align="center">
+<br/>
+
+**Ever tried. Ever failed. No matter.**<br/>
+**Try again. Fail again. Fail better.**
+
+<sub>Samuel Beckett, <i>Worstward Ho</i> (1983)</sub>
+
+<br/>
+</div>
+
+*Hello Moon* is the greeting. *Fail better* is the method. Three careers in, it's the only process that has ever worked for me: try, ship, find out where it broke, try again a little smarter. It's how the storefronts get migrated, how the kids' games get built, and the first thing the interns at [AI n-able Yourself](https://aifluency.flyrank.ai/) hear, before anyone mentions a tool.
 
 <br/>
 
@@ -154,7 +171,7 @@ Receipts. Every row is real and every link still works. The first row predates G
 - **♟️ [Living Chess](https://livingchess.net)** · a live social experiment where every participant controls one chess piece and each move is decided collectively. Website in **Rust** (Axum + Askama), deployed on Railway. → [`living-chess-site`](https://github.com/leoyigit/living-chess-site)
 - **🚀 [FlyRank Web](https://flyrank.ai)** · the FlyRank marketing site and platform front. **Nuxt 4 · Vue 3 · Tailwind v4 · Supabase**, SSR on Vercel.
 - **🛍️ Shopify → Shopline migrations** · moving real storefronts between platforms without losing the design, the SEO, or the client's sleep. Redesigns and the tooling that makes them repeatable.
-- **🎓 [FlyRank Internship Badges](https://github.com/leoyigit/flyrank-internship-badges)** · copy-paste verification badges for internship credentials. Six shapes, light and dark, zero dependencies.
+- **🎓 [AI n-able Yourself](https://aifluency.flyrank.ai/)** · the General AI Fluency track of the [FlyRank AI Internship](https://internship.flyrank.ai), which I mentor. Ten weeks, no coding background required, one real thing shipped at the end: your own portfolio, live. The graduates' credentials come from [`flyrank-internship-badges`](https://github.com/leoyigit/flyrank-internship-badges): six shapes, light and dark, zero dependencies.
 - **📝 [convert-to-md](https://github.com/leoyigit/convert-to-md)** · newest tool: type `convert`, drag a file or folder into the terminal, get Markdown. Docs, spreadsheets, PDFs, whole folders.
 
 <br/>
